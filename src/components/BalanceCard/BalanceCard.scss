@@ -1,0 +1,26 @@
+
+.BalanceCard {
+  width: 315px;
+  height: 220px;
+  background: url(../../images/card.png);
+  color: var(--dark);
+  padding: 40px 25px;
+
+  &__label {
+    font-size: 12px;
+    font-weight: 300;
+  }
+
+  &__balance {
+    font-size: 24px;
+    font-weight: 600;
+  }
+
+  &__number {
+
+  }
+
+  &__date {
+
+  }
+}

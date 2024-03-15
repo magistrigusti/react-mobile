@@ -1,10 +1,10 @@
-
-import './App.css';
+import { BalanceCard } from './components/BalanceCard/BalanceCard';
+import './App.scss';
 
 function App() {
   return (
     <div className="App">
-      React Mobile App
+      <BalanceCard />
     </div>
   );
 }

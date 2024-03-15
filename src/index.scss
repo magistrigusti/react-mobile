@@ -12,6 +12,7 @@
 
 *{
   margin: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -20,4 +21,5 @@ body {
   align-items: center;
   justify-content: center;
   height:  100vh;
+  background: var(--gradient_body);
 }
