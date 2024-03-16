@@ -1,1 +1,1 @@
-.App{width:375px;height:812px;border-radius:40px;background:var(--dark);color:var(--light);padding:75px 40px 30px}
+.App{display:grid;gap:25px;align-items:start;width:375px;height:812px;border-radius:40px;background:var(--bg);color:var(--light);padding:75px 40px 30px}
