@@ -1,4 +1,7 @@
 .Block {
+  display: flex;
+  gap: 15px;
+  align-items: center;
   background: var(--dark);
   border-radius: 20px;
   padding: 12px;

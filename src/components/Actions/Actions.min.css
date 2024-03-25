@@ -1,1 +1,1 @@
-.Actions{display:grid;grid-template-columns:2fr 1fr;gap:15px}
+.Actions{display:grid;grid-template-columns:1.8fr 1.2fr;gap:15px}.Actions .action{cursor:pointer}.Actions i{font-size:22px}.Actions span{font-size:11px}
